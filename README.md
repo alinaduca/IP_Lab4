@@ -11,8 +11,7 @@
 
 # C4
 ![alt text](https://github.com/alinaduca/IP_Lab4/blob/main/ShopController/ClassDiagram.png?raw=true)
-
-https://github.com/alinaduca/IP_Lab4/blob/main/SecurityControll/SecurityControll.jpg?raw=true![image](https://user-images.githubusercontent.com/46138368/225863950-43b93b5e-5660-411c-a783-6342ab9ae76a.png)
+![alt text](https://github.com/alinaduca/IP_Lab4/blob/main/SecurityControll/SecurityControll.jpg?raw=true)
 
 
 # Forward
