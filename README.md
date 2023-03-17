@@ -8,3 +8,6 @@
 
 # C3
 ![alt text](https://github.com/alinaduca/IP_Lab4/blob/main/C4%20Diagrams/C4-L3.png?raw=true)
+
+#C4
+![alt text](https://github.com/alinaduca/IP_Lab4/blob/main/Screenshot%20from%202023-03-17%2011-15-06.png?raw=true)
